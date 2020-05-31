@@ -11,7 +11,7 @@
 
 Summary:	Prometheus exporter for machine metrics
 Name:		prometheus-%{repo}
-Version:	0.18.1
+Version:	1.0.0
 Release:	1
 License:	Apache 2.0
 Url:		https://%{provider_prefix}
